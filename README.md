@@ -1,5 +1,5 @@
 <h1 align="center">Hi👋, I'm Paulina</h1>
-<h3 align="center">A recently certified junior web developer from Chile.</h3>
+<h3 align="center">A full stack web developer in training.</h3>
 
 - 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/paulina-carcamo-7a9299269/](https://www.linkedin.com/in/paulina-carcamo-7a9299269/)
 
