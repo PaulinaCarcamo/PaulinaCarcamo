@@ -16,8 +16,8 @@
 <a href="https://www.mongodb.com/" target="_blank"><img style="margin: 10px" src="https://i.postimg.cc/2jcBRFkr/mongodblogopng.png" alt="MongoDB" height="40" /></a>  
 <a href="https://nodejs.org/" target="_blank"><img style="margin: 10px" src="https://i.postimg.cc/k4F3FKcv/nodejspng.png" alt="Node.js" height="40" /></a>  
 <a href="https://expressjs.com/" target="_blank"><img style="margin: 10px" src="https://i.postimg.cc/44PRYvnJ/expressjslogopng.png" alt="Express.js" height="40" /></a>  
-<a href="https://www.chartjs.org/" target="_blank"><img style="margin: 10px" src="https://i.postimg.cc/BQRLtSPz/chartjslogologo.png" alt="Chart.js" height="40" /></a>  
-<a href="https://www.adobe.com/in/products/photoshop.html" target="_blank"><img style="margin: 10px" src="https://i.postimg.cc/kX0Tdt9Y/photoshoplogopng.png" alt="Photoshop" height="40" /></a>  
+<a href="https://www.chartjs.org/" target="_blank"><img style="margin: 10px" src="https://i.postimg.cc/GhMndK93/logochartjspng.png" alt="Chart.js" height="40" /></a>  
+<a href="https://www.adobe.com/in/products/photoshop.html" target="_blank"><img style="margin: 10px" src="https://i.postimg.cc/BQz2WW5q/photoshoplogologo.png" alt="Photoshop" height="40" /></a>  
 <a href="https://firebase.google.com/" target="_blank"><img style="margin: 10px" src="https://i.postimg.cc/9XY3mPzq/google-firebase-icon-icons-com-61474.png" alt="Firebase" height="40" /></a>  
 <a href="https://mui.com/" target="_blank"><img style="margin: 10px" src="https://i.postimg.cc/KzSqrkpg/muimaterialpnglogo.png" alt="Material UI" height="40" /></a>  
 <a href="https://www.npmjs.com/" target="_blank"><img style="margin: 10px" src="https://i.postimg.cc/CM2g7DnC/npmlogopng.png" alt="NPM" height="40" /></a>  
