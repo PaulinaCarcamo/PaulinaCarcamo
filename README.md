@@ -1,11 +1,11 @@
 <h1 align="left">Hello👋, I'm Paulina</h1>
 <h3 align="left">A full stack web developer in training.</h3>
 
-- 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/paulina-carcamo-7a9299269/](https://www.linkedin.com/in/paulina-carcamo-7a9299269/)
+- 👨‍💻 All of my projects are available at [My Portfolio](https://www.linkedin.com/in/paulina-carcamo-7a9299269/)
 
 - 📫 How to reach me **carcamozu@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/paulina-carcamo-7a9299269/](https://www.linkedin.com/in/paulina-carcamo-7a9299269/)
+- 📄 Know about my experiences at [Linkedin](https://www.linkedin.com/in/paulina-carcamo-7a9299269/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
