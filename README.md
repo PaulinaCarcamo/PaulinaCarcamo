@@ -1,7 +1,7 @@
 <h1 align="left">Hello👋, I'm Paulina</h1>
 <h3 align="left">A full stack web developer in training.</h3>
 
-- 👨‍💻 All of my projects are available at [Portfolio](https://www.linkedin.com/in/paulina-carcamo-7a9299269/)
+- 👨‍💻 All of my projects are available at [Portfolio](https://portfolio2023-ashy.vercel.app/)
 
 - 📫 How to reach me **carcamozu@gmail.com**
 
